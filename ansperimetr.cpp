@@ -30,7 +30,7 @@ switch(menu())
 int menu()
 {
 	int ch;
-	printf("\n1:calculations \n2:Exit");
+	printf("\n1:start calculations \n2:Exit");
 	printf("\nEnter your choice ");
 	scanf("%d",&ch);
 	return(ch);
